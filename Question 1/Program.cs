@@ -33,4 +33,4 @@ namespace Array
         }
     }
 }
-//In this code I have checked all the exception in every scenario and there is no exception so no Exceptions Handling is required
+//In this code I have checked all the exceptions in every scenario and there is no exceptions so no Exceptions Handling is required

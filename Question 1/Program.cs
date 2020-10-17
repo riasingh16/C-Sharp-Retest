@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Array
 {
-    class Program2
+    class Program
     {
         static int len;
         static void DiaplayArray(int[] arr)
